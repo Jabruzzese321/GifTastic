@@ -1,0 +1,18 @@
+.jumbotron{
+	background-color: lightblue;
+	color: #ffffff;
+}
+
+#movies{
+	padding: 3%;
+}
+
+div{
+	margin-bottom: 2%;
+}
+
+.btn {
+    background-color: lightblue;
+    border-color: #ffffff;
+	color: #ffffff;
+}
